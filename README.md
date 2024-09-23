@@ -5,7 +5,11 @@ The approach is discussed in further detail in the paper.
 
 ## **Running Instructions**
 
-This repository contains two Python notebooks:
+To set up your machine, please run the following command in order to install the necessary dependencies:
+
+```pip install torch torchvision matplotlib seaborn scipy scikit-learn numpy```
+
+Moreover, this repository contains two Python notebooks:
 
 - ```generate_results.ipynb``` - reproduces the results presented in the paper.
 

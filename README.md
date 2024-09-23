@@ -1,4 +1,4 @@
-# **Active Learning in the Medical Domain – an Innovative Uncertainty & Proximity Based Sampling Approach** 🧑‍🔬
+# **Active Learning in the Medical Domain – an Innovative Uncertainty & Proximity Based Sampling Approach** 🔬
 
 In this project, we implement a genuine approach for sampling when performing Active Learning, named "Cluster Uncertainty Sampling". 
 The approach is discussed in further detail in the paper.

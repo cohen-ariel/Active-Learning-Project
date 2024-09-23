@@ -1,7 +1,7 @@
 # **Active Learning in the Medical Domain – an Innovative Uncertainty & Proximity Based Sampling Approach**
 
 In this project, we implement a genuine approach to sampling during the active learning pipeline, named "Cluster Uncertainty Sampling". 
-The approach is discussed in detail in the paper.
+The approach is discussed in further detail in the paper.
 
 ## **Running Instructions**
 
@@ -16,7 +16,7 @@ Since the project code was written on a virtual machine terminal, which does not
 ### **Generating the Results**
 
 First, download the ```generate_results.ipynb``` file. Follow the instructions throughout the notebook, including running the required code cell by cell, and downloading
-the data ZIP file from the link provided in the respective location. Once the entire notebook has been run, a total of five TXT files should be generated:
+the data ZIP file from the link provided in the respective location. Once the entire notebook has been run, a total of six TXT files should be generated:
 
 - ```combination_accuracies.txt```
 
